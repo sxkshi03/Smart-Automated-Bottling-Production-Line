@@ -24,6 +24,9 @@ A PLC-controlled bottling process where bottles move through four automated stat
 
 - 🎥 [PLC-Based Bottle Filling, Capping & Labelling System](PLC-Based%20Bottle%20Filling,%20Capping%20%26%20Labelling%20System.mp4)
 
+## Working
+- 📄 [Control Philosophy](./Control%20Philosophy.md)
+
 ## Features
 - Emergency Stop (E-Stop)
 - Conveyor motor feedback
