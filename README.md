@@ -8,7 +8,7 @@ A PLC-controlled bottling process where bottles move through four automated stat
 
 ## Project Documents
 
-# Ladder Logic 
+## Ladder Logic 
 - 📄 [PLC Logic - Part 2](./PLC%20Logic%20-%20Part%202.png)
 - 📄 [PLC Logic - Part 3](./PLC%20Logic%20-%20Part%203.png)
 - 📄 [PLC Logic - Part 4](./PLC%20Logic%20-%20Part%204.png)
@@ -17,7 +17,7 @@ A PLC-controlled bottling process where bottles move through four automated stat
 - 📄 [PLC Logic - Part 7](./PLC%20Logic%20-%20Part%207.png)
 - 📄 [PLC Logic - Part 8](./PLC%20Logic%20-%20Part%208.png)
 
-# Trend Plot
+## Trend Plot
 - 📄 [PLC Logic - Part 1](./PLC%20Logic%20-%20Part%201.png)
 
 ## Project Demo
