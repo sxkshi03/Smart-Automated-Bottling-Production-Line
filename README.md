@@ -9,16 +9,16 @@ A PLC-controlled bottling process where bottles move through four automated stat
 ## Project Documents
 
 # Ladder Logic 
-- 📄 [PLC Logic - Part 2](Project%20Documents/2.png)
-- 📄 [PLC Logic - Part 3](Project%20Documents/3.png)
-- 📄 [PLC Logic - Part 4](Project%20Documents/4.png)
-- 📄 [PLC Logic - Part 5](Project%20Documents/5.png)
-- 📄 [PLC Logic - Part 6](Project%20Documents/6.png)
-- 📄 [PLC Logic - Part 7](Project%20Documents/7.png)
-- 📄 [PLC Logic - Part 8](Project%20Documents/8.png)
+- 📄 [PLC Logic - Part 2](./PLC%20Logic%20-%20Part%202.png)
+- 📄 [PLC Logic - Part 3](./PLC%20Logic%20-%20Part%203.png)
+- 📄 [PLC Logic - Part 4](./PLC%20Logic%20-%20Part%204.png)
+- 📄 [PLC Logic - Part 5](./PLC%20Logic%20-%20Part%205.png)
+- 📄 [PLC Logic - Part 6](./PLC%20Logic%20-%20Part%206.png)
+- 📄 [PLC Logic - Part 7](./PLC%20Logic%20-%20Part%207.png)
+- 📄 [PLC Logic - Part 8](./PLC%20Logic%20-%20Part%208.png)
 
 # Trend Plot
-- 📄 [PLC Logic - Part 1](Project%20Documents/1.png)
+- 📄 [PLC Logic - Part 1](./PLC%20Logic%20-%20Part%201.png)
 
 ## Project Demo
 
